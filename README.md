@@ -14,6 +14,7 @@ Built by following a YouTube tutorial.
 - **JWT (JSON Web Token)** for authentication & authorization
 - **Cloudinary** for media storage
 - **Render** for deployment
+- **React-Toastify** for notifications
 
 ## 🌟 Features
 - 🔐 **Authentication & Authorization** with JWT
@@ -22,6 +23,7 @@ Built by following a YouTube tutorial.
 - ⚡ **Global state management** with Zustand
 - 🛠 **Error handling** on both server & client
 - 📦 **Free deployment** like a pro!
+- 🔔 **Toast notifications** for user interactions
 
 ## 🏗 Setup & Installation
 
